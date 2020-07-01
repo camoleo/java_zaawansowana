@@ -1,4 +1,4 @@
-package pl.camoleo.sda.zdjavapol12.s.enums.Zadanie2;
+package pl.camoleo.sda.zdjavapol12.s.enums.Zadanie3;
 
 public class PrintEnumTest {
     public static void main(String[] args) {
@@ -6,3 +6,4 @@ public class PrintEnumTest {
         Print.THREE.Times("HELLO");
     }
 }
+//

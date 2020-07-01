@@ -1,4 +1,4 @@
-package pl.camoleo.sda.zdjavapol12.s.enums.Zadanie2;
+package pl.camoleo.sda.zdjavapol12.s.enums.Zadanie3;
 
 public enum Print {
 
