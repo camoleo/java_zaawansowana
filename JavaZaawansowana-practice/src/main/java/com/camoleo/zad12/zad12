@@ -1,0 +1,6 @@
+Stwórz
+klasę Manufacturer , która bedzie zawierać pola: nazwa, rok założenia, kraj. Uwzględnij wszystkie
+niezbędne metody oraz parametry konstruktora. Zaimplementuj metody hashCode() i equals()
+Stwórz klasę̨ Car , która bedzie zawierać pola: nazwa, model, cena, rok produkcji, lista producentów
+Manufacturer ), oraz typ silnika (reprezentowany jako klasa enum, np. V 12 , V 8 , V 6 , S 6 , S 4 , S 3 ). UwzglUwzglę dnij
+wszystkie niezbędne metody oraz parametry konstruktora. Zaimplementuj metody hashcode() i equals()
